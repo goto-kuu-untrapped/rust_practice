@@ -13,7 +13,6 @@ fn usd_to_jpn(amount: Decimal) -> Decimal {
     amount / rate
 }
 
-
 fn main() {
     let price = Decimal::new(25, 0); 
     println!("{} yen is {} dollers.", price, jpn_to_usd(price));
