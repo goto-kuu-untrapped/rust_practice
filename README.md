@@ -1,1 +1,1 @@
-Problem list (Thank you for creating the problem list!)
+Problem List (Thank you to the person who created it!)
