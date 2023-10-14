@@ -1,5 +1,10 @@
 /target
 /src/a*/target
+/src/ls*/target
+/src/gui*/target
+/src/oe*/target
+/src/b*/target
+/src/c*/target
 *.pdb
 *.exe
 Cargo.lock
