@@ -6,13 +6,13 @@
 4.  [x] Write a program that asks the user for a number `n` and prints the sum of the numbers 1 to `n`
 5.  [x] Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for `n`=17
 6.  [x] Write a program that asks the user for a number `n` and gives them the possibility to choose between computing the sum and computing the product of 1,…,`n`.
-7.  [ ] Write a program that prints a multiplication table for numbers up to 12.
-8.  [ ] Write a program that prints _all_ prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
-9.  [ ] Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
-10.  [ ] Write a program that prints the next 20 leap years.
-11.  [ ] Write a program that computes the sum of an alternating series where each element of the series is an expression of the form ((−1)k+1)/(2\*k−1) for each value of k from 1 to a million, multiplied by 4. Or, in more mathematical notation
+7.  [x] Write a program that prints a multiplication table for numbers up to 12.
+8.  [x] Write a program that prints _all_ prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+9.  [x] Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
+10.  [x] Write a program that prints the next 20 leap years.
+11.  [x] Write a program that computes the sum of an alternating series where each element of the series is an expression of the form ((−1)k+1)/(2\*k−1) for each value of k from 1 to a million, multiplied by 4. Or, in more mathematical notation
 #### Lists, Strings ls01-ls19
-1.  [ ] Write a function that returns the largest element in a list.
+1.  [x] Write a function that returns the largest element in a list.
 2.  [ ] Write function that reverses a list, preferably in place.
 3.  [ ] Write a function that checks whether an element occurs in a list.
 4.  [ ] Write a function that returns the elements on odd positions in a list.
@@ -145,3 +145,27 @@ functions to show the user. (Beginner)
 3.  [ ] Write a program to plot a simple x-y graph for a harcoded function (e.g. y=cos(x)). It should be possible to zoom in on any part of the graph. - Intermediate.  
 4.  [ ] Write a program to plot a graph of given equation of form y=f(x) and a range for x as command line arguments. (e.g. my_graph_plotter -eq="y=x*x" -xmin=-10, -xmax=10) - Expert. (PS: more to do with equation solving than graphics)  
 5.  [ ] Write the classic brick-break-out game. E.g. see DX Ball. – Expert.
+
+#### Rust Beginner Projects
+ - [ ] 99 Bottles
+ - [ ] Magic 8 Ball
+ - [ ] Pythagorean Triples Checker
+ - [ ] Rock Paper Scissors Game
+ - [ ] Coin Estimator By Weight
+ - [ ] Mad Libs Story Maker
+ - [ ] Change Calculator
+ - [ ] Mean, Median, and Mode
+ - [ ] Higher Lower Guessing Game
+ - [ ] Multiplication Table
+ - [ ] Fibonacci Sequence
+ - [ ] Hangman Game
+ - [ ] Dice Rolling Simulator
+ - [ ] Factors of a Number
+ - [ ] Countdown Clock
+ - [ ] Black Jack
+ - [ ] Watch for New TIL Facts
+ - [ ] Random Wikipedia Article
+ - [ ] What's the Weather?
+ - [ ] Sierpinski Triangle
+ - [ ] Pomodoro Timer
+ - [ ] Scarne's Dice
